@@ -1,10 +1,57 @@
-<h1 align="center">
-  <img src="images/logo.png" alt="Walklogger Logo" width="150"/><br>
-  <span style="color:#39FF14">WΛΛKL0GGΞR</span>
-</h1>
+# 🕶️ WalkLogger
 
-<p align="center">
-  <strong><em>⚔️ "Trace Every Step. Type Every Key." ⚔️</em></strong><br>
-  <em>A cross-platform keylogger + behavior detector for power pentesters & cybersecurity pros.</em>
-</p>
+![WalkLogger Logo](images/logo.png)
 
+> **"Unseen, Unheard, Unstoppable. Capture Every Keystroke."**
+
+![Made With Python](https://img.shields.io/badge/Made%20With-Python-3776AB?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-orange)
+
+---
+
+## 🧠 What is WalkLogger?
+
+**WalkLogger** is an advanced, stealth-mode keylogger tool made for cybersecurity research, red-teaming, and digital behavior analysis. It runs in the background, captures every keystroke, takes a screenshot every 10 seconds, and alerts users when potentially dangerous terminal commands are detected.
+
+The GUI is built with a dark hacker aesthetic — perfect for demos, testing, and adding flair to your resume. WalkLogger hides in the system tray and continues running silently until you choose to exit.
+
+---
+
+## 🔥 Features
+
+- 🔐 **Keylogging** in real-time with GUI display
+- 🖼️ **Screenshot capture every 10 seconds** (stored locally)
+- 🚨 **Suspicious behavior detection** using keyword matching
+- 👻 **Stealth Mode** — Hide to system tray, click to reveal
+- 💡 **Dark hacker GUI** with green-on-black theme
+- 🛠️ Lightweight and cross-platform (Windows, Linux, macOS)
+- 🔔 Popup alerts when malicious activity is detected
+
+---
+
+## 📸 Tool Previews
+
+### 💻 GUI Interface  
+![WalkLogger GUI](images/gui-screenshot.png)
+
+### 🎥 Real-Time Logging  
+![Typing Demo](images/typing.gif)
+
+### 🖼️ Automatic Screenshots  
+![Screenshot Capture](images/screen-capture.gif)
+
+---
+
+## 🚀 Installation & Usage
+
+```bash
+# Clone the repo
+git clone https://github.com/yourusername/walklogger.git
+cd walklogger
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the logger
+python walklogger.py
