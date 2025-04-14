@@ -1,6 +1,9 @@
-# 🕶️ WalkLogger
+<h1 align="center">🗝️ WalkLogger</h1>
 
-![WalkLogger Logo](images/logo.png)
+<p align="center">
+  <img src="https://github.com/Krishna845-prog/WalkLogger/blob/main/Walkloggerlogo.jpg" alt="WalkLogger Logo" width="400">
+</p>
+
 
 > **"Unseen, Unheard, Unstoppable. Capture Every Keystroke."**
 
