@@ -38,7 +38,7 @@ The GUI is built with a dark hacker aesthetic — perfect for demos, testing, an
 <h2 align="center">🎥 Tool Preview</h2>
 
 <p align="center">
-  <img src="images/demo-recording.gif" alt="WalkLogger Recording Preview" width="600">
+  <img src="https://github.com/Krishna845-prog/WalkLogger/blob/main/Demonstration%20(1).mp4" alt="WalkLogger Recording Preview" width="600">
 </p>
 
 ---
