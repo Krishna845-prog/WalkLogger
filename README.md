@@ -39,10 +39,6 @@ The GUI is built with a dark hacker aesthetic — perfect for demos, testing, an
   <img src="https://github.com/Krishna845-prog/WalkLogger/blob/main/keylogger%20output.jpg" alt="WalkLogger Recording Preview" width="600">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Krishna845-prog/WalkLogger/blob/main/keylogger%20output.jpg" alt="WalkLogger Recording Preview" width="600">
-</p>
-
 ## 🚀 Installation & Usage
 
 ```bash
