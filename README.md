@@ -35,14 +35,11 @@ The GUI is built with a dark hacker aesthetic — perfect for demos, testing, an
 
 ## 📸 Tool Previews
 
-### 💻 GUI Interface  
-![WalkLogger GUI](images/gui-screenshot.png)
+<h2 align="center">🎥 Tool Preview</h2>
 
-### 🎥 Real-Time Logging  
-![Typing Demo](images/typing.gif)
-
-### 🖼️ Automatic Screenshots  
-![Screenshot Capture](images/screen-capture.gif)
+<p align="center">
+  <img src="images/demo-recording.gif" alt="WalkLogger Recording Preview" width="600">
+</p>
 
 ---
 
